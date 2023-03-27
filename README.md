@@ -2,4 +2,4 @@
 
 # red_skull.gif
 
-Ma première Animation 2D.
+Ma premiÃ¨re Animation 2D.
