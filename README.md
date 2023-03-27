@@ -4,4 +4,4 @@
 
 Ma première Animation 2D.
 
-![](./anim/ilu1.png)
+![](./img/ilu1.png)
