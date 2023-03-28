@@ -27,4 +27,6 @@ Saisie du code dans le nuancier.
 
 Après un coup de pot de peinture, j'ai copier/coller la tête de mort.
 
+J'ai utilisé ensuite l'opacité du calque de la tête de mort. (5% par image)
+
 ![](./img/ilu4.png)
