@@ -20,3 +20,7 @@ J'ai créer un nouveau document.
 Google m'as fournis rapidement de code RVB du rouge coca.
 
 ![](./img/ilu2.png)
+
+Saisie du code dans le nuancier.
+
+![](./img/ilu3.png)
