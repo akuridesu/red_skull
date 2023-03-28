@@ -24,3 +24,7 @@ Google m'as fournis rapidement de code RVB du rouge coca.
 Saisie du code dans le nuancier.
 
 ![](./img/ilu3.png)
+
+Après un coup de pot de peinture, j'ai copier/coller la tête de mort.
+
+![](./img/ilu4.png)
