@@ -35,3 +35,5 @@ Téléchargement des images sur le site.
 
 ![](./img/ilu5.png)
 
+![](./img/ilu6.png)
+
