@@ -27,6 +27,11 @@ Saisie du code dans le nuancier.
 
 Après un coup de pot de peinture, j'ai copier/coller la tête de mort.
 
-J'ai utilisé ensuite l'opacité du calque de la tête de mort. (5% par image)
+J'ai utilisé ensuite l'opacité du calque de la tête de mort pour créer les images. (5% par image)
 
 ![](./img/ilu4.png)
+
+Téléchargement des images sur le site.
+
+![](./img/ilu5.png)
+
